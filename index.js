@@ -1,6 +1,6 @@
-let nome; Ego 
+let nome; ego 
 let xp; platina
-switch (dia) {
+switch (xp) {
     case "ouro":
       console.log("entre 6001 e 7.000");
       break;
@@ -11,4 +11,4 @@ switch (dia) {
       console.log("entre 9001 e 10.000");
       break;
 }
-console.log("O Herói de nome " + nome + "está no nivel" + xp )
+console.log("O Herói de nome " + nome + "está no nivel" + xp)
